@@ -1,6 +1,6 @@
 # ava-codemods [![Build Status](https://travis-ci.org/avajs/ava-codemods.svg?branch=master)](https://travis-ci.org/avajs/ava-codemods)
 
-Translations: [Français](https://github.com/avajs/ava-docs/blob/master/fr_FR/related/ava-codemods/readme.md)
+Translations: [Français](https://github.com/avajs/ava-docs/blob/main/fr_FR/related/ava-codemods/readme.md)
 
 > Codemods for [AVA](https://ava.li) that simplifies upgrading to newer versions and migrating to AVA
 
